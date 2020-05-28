@@ -11,7 +11,7 @@ Challenge activity for the Open Data Workshop 2020: https://www.gw-openscience.o
 
 [challenge3.gwf](https://www.gw-openscience.org/s/workshop3/challenge/challenge3.gwf)
 
-##Challenge 1 (1 point) -- Novice
+## Challenge 1 (1 point) -- Novice
 Identify a loud binary black hole signal in white, Gaussian noise.
 
 Use the data file "challenge1.gwf". The channel name is "H1:CHALLENGE1".
@@ -24,7 +24,7 @@ Plot a spectrogram (or q-transform) of the data, and try to identify the signal.
 
 What is the time of the merger?
 
-##Challenge 2 (2 points) -- Rookie
+## Challenge 2 (2 points) -- Rookie
 Signal in colored, Gaussian noise.
 
 Use the data file "challenge2.gwf", with channel name "H1:CHALLENGE2"
@@ -39,7 +39,7 @@ Use the template waveform and PSD to calculate the SNR time series. Plot the SNR
 
 What is the matched filter SNR of the signal?
 
-##Challenge 3 (4 points) -- Intermediate
+## Challenge 3 (4 points) -- Intermediate
 Use the data file "challenge3.gwf" with channel "H1:CHALLENGE3"
 These are real LIGO data from O2, though we've adjusted the time labels and added some simulated signals.
 The data contain a loud simulated signal with m1 = m2 = 10 solar masses.
