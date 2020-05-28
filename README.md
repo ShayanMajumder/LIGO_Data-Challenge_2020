@@ -59,3 +59,13 @@ Your estimate of the component masses
 Identify as many glitches as you can. Make a spectrogram of each one.
 
 For each simulated BBH you found, use bilby to compute a posterior distribution for the mass. You can fix the spin and mass ratio to make this run faster.
+
+
+
+
+
+
+
+### How to run Pycbc in colab
+import sys
+!{sys.executable} -m pip install pycbc lalsuite ligo-common --no-cache-dir
